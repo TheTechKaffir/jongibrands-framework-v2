@@ -7,11 +7,18 @@ Welcome to Jongibrands PHP MVC Simple Framework! This lightweight, easy-to-use f
 **Easy to use:** This framework is designed to be simple and straightforward, allowing you to get started quickly and easily. <br>
 **Lightweight:** The framework is built to be lightweight, reducing the overhead and bloat often found in other frameworks. <br>
 **Fast and efficient:** With a focus on performance and efficiency, you can be sure that your applications will run smoothly and quickly. <br>
+
 # Getting Started
+*** Using Github *** <br>
 To get started, simply clone the repository and follow the installation instructions. Once installed, you can begin building your application using the framework's features. <br>
 
+*** Using Composer *** <br>
+With Composer installed in your local machine, just copy the following command line and paste it in the terminal of your Project Directory <br>
+
+composer create-project jongibrands/jongibrands-php-mvc-framework <your-project-name>
+
 # Documentation <br>
-For comprehensive documentation, visit the GitHub Wiki page for this repository. The documentation covers everything from installation to usage and best practices, and is constantly being updated to ensure that you have access to the latest information.
+To Update
 
 # Contributing <br>
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue on GitHub. We welcome all contributions and are always looking for ways to improve the framework. <br>
