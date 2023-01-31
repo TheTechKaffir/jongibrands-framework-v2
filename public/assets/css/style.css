@@ -1,0 +1,11 @@
+a {
+    color: #c7b27b !important;
+}
+a:hover {
+    color: burlywood;
+}
+.jb-btn-bg-primary {
+     background-color: #c7b27b;
+     height: 35px;
+     border-radius: 5px;
+}

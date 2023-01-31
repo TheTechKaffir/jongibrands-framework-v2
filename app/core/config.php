@@ -5,9 +5,11 @@
  */
 
 define('APP_NAME','Jongibrands PHP MVC Framework');
-define('APP_DESCRIPTION','A simple but robust PHP MVC framework with Database configuration, Login & registration, with basic validation, basic routing, for quick Web Application Development');
+define('APP_DESCRIPTION','a simple but robust PHP MVC framework with Database configuration, Login & registration, with basic validation, basic routing, for quick Web Application Development');
 define('APP_DISCLAIMER','You may need to perform further security tasks on the Framework as it is NOT issued on an absolute basis');
-define('APP_AUTHOR','Jongi - The Tech Kaffir, Jongibrands (Pty) Ltd');
+define('APP_AUTHOR','Jongi - The Tech Kaffir @ Jongibrands (Pty) Ltd');
+define('APP_AUTHOR_LINK','a href="https://jongibrandz.co.za" target="_blank"');
+
 
 /**
  * Database Configuration 

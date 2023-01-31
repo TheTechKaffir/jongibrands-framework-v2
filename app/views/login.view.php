@@ -49,7 +49,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-success text-light w-100" type="submit">Login</button>
+                                    <button class="jb-btn-bg-primary text-light w-100" type="submit">Login</button>
                                     <a href="<?= ROOT ?>" class="btn btn-danger w-100 mt-1" type="submit">Cancel</a>
                                 </div>
                                 <div class="col-12">

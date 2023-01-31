@@ -4,7 +4,7 @@
 <div class="container mt-5">
     <div class="row">
         <div class="col">
-            <h1 class="text-center">This is the Home Page</h1>
+            <h1 class="text-center">Home Page</h1>
         </div>
     </div>
     <hr>
@@ -22,6 +22,10 @@
             <img src="<?= ROOT ?>/assets/img/jb-logo-trans.png" alt="Jongi Brands Logo">
         </div>
     </div>
+    <hr>
+    <p class="text-justify">
+        Congratulations, and welcome to <?= APP_NAME ?>. <?= APP_NAME ?> is <?= APP_DESCRIPTION ?>. Developed by <?= APP_AUTHOR ?>. <a href="https://jongibrandz.co.za" target="_blank">View Site</a>
+    </p>
 </div>
 
 

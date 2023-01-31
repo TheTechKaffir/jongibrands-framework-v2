@@ -9,6 +9,8 @@
     <link href="<?= ROOT ?>/assets/img/apple-touch-icon.png" rel="apple-touch-icon">    
 
     <title><?= APP_NAME ?> | <?= ucfirst(App::$page) ?> </title>
+    <!--Main CSS-->
+    <link rel="stylesheet" href="<?= ROOT ?>/assets/css/style.css">
     <!--Bootstrap CSS-->
     <link rel="stylesheet" href="<?= ROOT ?>/assets/css/bootstrap.min.css">
 </head>
