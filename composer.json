@@ -1,0 +1,18 @@
+{
+    "name": "jongibrands/jongibrands-php-mvc-framework",
+    "description": "Jongibrands PHP MVC Framework is a simple but robust PHP MVC framework with Database configuration, Login & registration, with basic validation, basic routing, for quick Web Application Development",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jongibrands\\JongibrandsPhpMvcFramework\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TheTechKaffir",
+            "email": "jongim@jongibrandz.co.za"
+        }
+    ],
+    "require": {}
+}
