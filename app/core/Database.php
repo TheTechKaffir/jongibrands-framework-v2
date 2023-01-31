@@ -47,7 +47,7 @@
     public function create_tables()
     {
         // Users Table
-        $sql = " USE play_db;
+        $sql = " USE jb_frame_db;
         CREATE TABLE IF NOT EXISTS `users` (
                 `id` int(11) NOT NULL AUTO_INCREMENT,
                 `name` varchar(255) NOT NULL,

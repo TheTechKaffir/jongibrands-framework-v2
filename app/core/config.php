@@ -18,17 +18,18 @@ if($_SERVER['SERVER_NAME'] == 'localhost')
     define('DBHOST','localhost');
     define('DBUSER','root');
     define('DBPASS','');
-    define('DBNAME','play_db');
+    define('DBNAME','jb_frame_db');
     define('DBDRIVER','mysql');
 
     // App Root - localhost
     define('ROOT','http://localhost/jongibrands-framework-v2/public');
 } else 
 {
+    // Configure your live server hereunder
     define('DBHOST','localhost');
-    define('DBUSER','root');
+    define('DBUSER','');
     define('DBPASS','');
-    define('DBNAME','play_db');
+    define('DBNAME','');
     define('DBDRIVER','mysql');
 
     // App Root -  Live Server (e.g. https://www.website.co.za)
