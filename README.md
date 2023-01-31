@@ -15,7 +15,7 @@ To get started, simply clone the repository and follow the installation instruct
 *** Using Composer *** <br>
 With Composer installed in your local machine, just copy the following command line and paste it in the terminal of your Project Directory <br>
 
-composer create-project jongibrands/jongibrands-php-mvc-framework <your-project-name>
+composer create-project jongibrands/jongibrands-php-mvc-framework [your-project-name]
 
 # Documentation <br>
 To Update
