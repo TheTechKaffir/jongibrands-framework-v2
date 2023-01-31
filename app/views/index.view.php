@@ -1,4 +1,11 @@
-<?php $this->view('inc/header') ?>
+<?php 
+    $this->view('inc/header');
+
+    if(!Auth::logged_in())
+    {
+        redirect('login');
+    }
+?>
 
 
 <div class="container mt-5">
