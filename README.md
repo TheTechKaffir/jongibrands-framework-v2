@@ -18,7 +18,7 @@ With Composer installed in your local machine, just copy the following command l
 composer create-project jongibrands/jongibrands-php-mvc-framework [your-project-name]
 
 # Documentation <br>
-To Update
+For a quick easy guide, kindly get the documentation <a href="https://jongibrandz.co.za/jb-framework-documentation/">here</a>
 
 # Contributing <br>
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue on GitHub. We welcome all contributions and are always looking for ways to improve the framework. <br>
