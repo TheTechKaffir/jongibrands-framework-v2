@@ -19,9 +19,11 @@
         <div class="col-lg-6">
             <h4>Hello, <?= Auth::getName() ?></h4>
         </div>
-        <div class="col-lg-6 text-right">
-            <a class="btn btn-danger" href="<?= ROOT ?>/logout" class="mt-1">LOGOUT</a>
-        </div>
+        <?php if(Auth::logged_in()) : ?>
+            <div class="col-lg-6 text-right">
+                <a class="btn btn-danger" href="<?= ROOT ?>/logout" class="mt-1">LOGOUT</a>
+            </div>
+        <?php endif ?>
     </div>
     <div class="row">
         <div class="col-lg-12 text-center">
