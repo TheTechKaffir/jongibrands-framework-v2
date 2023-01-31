@@ -1,5 +1,5 @@
 ***Jongibrands PHP MVC Simple Framework***
-Introduction
+# Introduction
 Welcome to Jongibrands PHP MVC Simple Framework! This lightweight, easy-to-use framework offers a fast and efficient way to develop and maintain your PHP applications with minimal hassle. Whether you're a seasoned developer or just starting out, this framework has everything you need to bring your projects to life.
 
 Features
